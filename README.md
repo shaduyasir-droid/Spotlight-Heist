@@ -1,6 +1,6 @@
 # Spotlight-Heist
 ### Project Name : Spotlight Heist - سرقة الأضواء
-### Project Idea :
+**Project Idea:** Spotlight Heist is a digital marketing agency built on one simple idea: steal the spotlight and point it at the projects that deserve to be seen. Many small and local businesses have real value, yet they stay invisible online, scattered across disconnected freelancers, inconsistent content, and unclear identities. We bring branding, content, and ads together under one roof, turning scattered effort into a clear, consistent presence that gets noticed and keeps growing.
 
 ### Team Members :
 1. Esraa Zaher Zayan     
@@ -11,6 +11,6 @@
 ### Work plan :
 ### Roles & Responsibilities :
 ### KPIs :
-### **Instructor:** Youstina Hany 
+ **Instructor:** Youstina Hany 
 ### Project files :
 
